@@ -2,7 +2,7 @@
 
 This is my personal portfolio website, built using Bootstrap 5, Typed.js, and Animate On Scroll libraries.
 
-To view my portfolio website, simply navigate to [https://phiponacci.github.io/portfolio/](https://phiponacci.github.io/portfolio/).
+To view my portfolio website, simply navigate to [https://phiponatchi.github.io/portfolio/](https://phiponatchi.github.io/portfolio/).
 
 ## Description
 
